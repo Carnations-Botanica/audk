@@ -40,4 +40,4 @@
 	url = https://github.com/DMTF/libspdm.git
 [submodule "OpenCorePkg"]
 	path = OpenCorePkg
-	url = https://github.com/acidanthera/OpenCorePkg.git
+	url = https://github.com/Carnations-Botanica/OpenCorePkg.git
